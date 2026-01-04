@@ -1,0 +1,8 @@
+{
+  "name": "scrivo",
+  "description": "A high-end, glassmorphic library management system with intelligent reader analytics, AI-powered admin controls, and a social community layer.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
